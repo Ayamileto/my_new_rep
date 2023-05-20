@@ -1,4 +1,5 @@
 def upper_str(string):
+    """ Функция возвращает строку заглавными буквами """
     upper_string = string.upper()
     return upper_string
 
